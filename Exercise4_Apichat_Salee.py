@@ -1,7 +1,7 @@
 Foundation_English = 90
 General_Business = 80
-Introduction_to_Computer_Systems = 99
-Computer_Programming = 79
+Introduction_to_Computer_Systems = 99.9
+Computer_Programming = 79.5
 
 print("--- Your Score ---")
 print("Foundation English :" , Foundation_English )
